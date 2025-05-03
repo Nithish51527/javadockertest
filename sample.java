@@ -2,6 +2,6 @@ public class sample
 { 
 public static void main(String args[]) 
 { 
-	system.out.println("Nithish");
+	System.out.println("Nithish");
 } 
 }
